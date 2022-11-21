@@ -111,7 +111,7 @@ function App() {
               bottom: "10px",
               right: "10px",
             }}>
-              <a target="_blank" style={{ textDecoration: "underline" }} href="https://github.com/r-a-ph/dispersenft">Github</a>{" - "}
+              <a target="_blank" style={{ textDecoration: "underline" }} href="https://github.com/ra-p-h/dispersenft">Github</a>{" - "}
               <a target="_blank" style={{ textDecoration: "underline" }} href="https://etherscan.io/address/0x10e073b64351bc4d84ea329aae6c37ae0a9cf052#code">Contract</a>
        </div>
     </div>
