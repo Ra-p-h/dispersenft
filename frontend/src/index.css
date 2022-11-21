@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Roboto";
+  color: white;
+}
+
+html{
+  background-color: #001220;
+  background-image: url(/src/assets/bg.svg);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
